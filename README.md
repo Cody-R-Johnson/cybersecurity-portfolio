@@ -35,3 +35,7 @@ This portfolio is actively updated as new labs and investigations are completed.
 ### Risk Management
 - [Risk Register Activity](risk-management/risk-register-activity/risk-register-analysis.md)
 - Supporting PDF in [risk-management/risk-register-activity](risk-management/risk-register-activity)
+
+### Data Privacy
+- [Data Leak Incident Analysis](data-privacy/data-leak-incident-analysis.md)
+- Supporting documents: worksheet and scenario image in [data-privacy](data-privacy)
