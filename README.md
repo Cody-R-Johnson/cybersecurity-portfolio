@@ -11,3 +11,27 @@ Each project demonstrates:
 - Security process thinking
 
 This portfolio is actively updated as new labs and investigations are completed.
+
+---
+
+## Portfolio Contents
+
+### Risk Assessments
+- [Botium Toys – Security Risk Assessment](risk-assessments/botium-toys/botium-toys-security-risk-assessment.md)
+- Supporting documents: controls checklist, compliance checklist, full audit report, and PDFs in [risk-assessments/botium-toys](risk-assessments/botium-toys)
+
+### Incident Response
+- [ICMP Flood DoS Incident – NIST CSF Analysis](incident-response/icmp-dos-incident/icmp-dos-incident-nist-csf-analysis.md)
+- Supporting documents and screenshots in [incident-response/icmp-dos-incident](incident-response/icmp-dos-incident)
+
+### Linux Investigations
+- [Linux File Permission Hardening](linux-investigations/linux-file-permissions-hardening.md)
+- Supporting PDFs in [linux-investigations](linux-investigations)
+
+### SQL Investigations
+- [SQL Security Log Filtering](sql-investigations/security-log-query-analysis/sql-security-log-filtering.md)
+- Supporting PDF in [sql-investigations/security-log-query-analysis](sql-investigations/security-log-query-analysis)
+
+### Risk Management
+- [Risk Register Activity](risk-management/risk-register-activity/risk-register-analysis.md)
+- Supporting PDF in [risk-management/risk-register-activity](risk-management/risk-register-activity)
