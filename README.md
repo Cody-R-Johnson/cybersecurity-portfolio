@@ -18,7 +18,7 @@ This portfolio is actively updated as new labs and investigations are completed.
 
 ### Risk Assessments
 - [Botium Toys – Security Risk Assessment](risk-assessments/botium-toys/botium-toys-security-risk-assessment.md)
-- Supporting documents: controls checklist, compliance checklist, full audit report, and PDFs in [risk-assessments/botium-toys](risk-assessments/botium-toys)
+- Supporting documents: controls & compliance checklist, full audit report, and PDFs in [risk-assessments/botium-toys](risk-assessments/botium-toys)
 
 ### Incident Response
 - [ICMP Flood DoS Incident – NIST CSF Analysis](incident-response/icmp-dos-incident/icmp-dos-incident-nist-csf-analysis.md)

@@ -74,6 +74,6 @@ This document analyzes a data breach scenario, examining the incident from both 
 - ![Incident Scenario Image](Screenshot%202026-02-26%20163550.png)
 
 ---
-*Analysis Date:* [Current Date]  
-*Analyst:* [Name]  
-*Status:* [In Progress / Complete]
+*Analysis Date:* 02/26/2026  
+*Analyst:* Cody
+*Status:* Complete
