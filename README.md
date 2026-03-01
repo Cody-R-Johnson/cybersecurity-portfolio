@@ -24,6 +24,9 @@ This portfolio is actively updated as new labs and investigations are completed.
 - [ICMP Flood DoS Incident – NIST CSF Analysis](incident-response/icmp-dos-incident/icmp-dos-incident-nist-csf-analysis.md)
 - Supporting documents and screenshots in [incident-response/icmp-dos-incident](incident-response/icmp-dos-incident)
 
+- [Access Control Incident – Access Log Review & Mitigations](incident-response/access-control-incident/access-control-incident-analysis.md)
+- Supporting documents (scenario image, worksheet/PDF, access log table) in [incident-response/access-control-incident](incident-response/access-control-incident)
+
 ### Linux Investigations
 - [Linux File Permission Hardening](linux-investigations/linux-file-permissions-hardening.md)
 - Supporting PDFs in [linux-investigations](linux-investigations)
