@@ -20,6 +20,10 @@ This portfolio is actively updated as new labs and investigations are completed.
 - [Botium Toys – Security Risk Assessment](risk-assessments/botium-toys/botium-toys-security-risk-assessment.md)
 - Supporting documents: controls & compliance checklist, full audit report, and PDFs in [risk-assessments/botium-toys](risk-assessments/botium-toys)
 
+### Vulnerability Assessments
+- [Vulnerability Assessment – NIST SP 800-30](vulnerability-assessments/nist-800-30-vulnerability-assessment/nist-800-30-vulnerability-assessment.md)
+- Supporting documents and scenario image(s) in [vulnerability-assessments/nist-800-30-vulnerability-assessment](vulnerability-assessments/nist-800-30-vulnerability-assessment)
+
 ### Incident Response
 - [ICMP Flood DoS Incident – NIST CSF Analysis](incident-response/icmp-dos-incident/icmp-dos-incident-nist-csf-analysis.md)
 - Supporting documents and screenshots in [incident-response/icmp-dos-incident](incident-response/icmp-dos-incident)
