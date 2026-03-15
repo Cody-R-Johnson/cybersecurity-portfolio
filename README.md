@@ -39,6 +39,10 @@ This portfolio is actively updated as new labs and investigations are completed.
 - [SQL Security Log Filtering](sql-investigations/security-log-query-analysis/sql-security-log-filtering.md)
 - Supporting PDF in [sql-investigations/security-log-query-analysis](sql-investigations/security-log-query-analysis)
 
+### Python Cybersecurity Projects
+- [Algorithm for File Updates in Python](python-cybersecurity/allow-list-file-update-algorithm.md)
+- Supporting documents in [python-cybersecurity](python-cybersecurity)
+
 ### Risk Management
 - [Risk Register Activity](risk-management/risk-register-activity/risk-register-analysis.md)
 - Supporting PDF in [risk-management/risk-register-activity](risk-management/risk-register-activity)
