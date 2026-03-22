@@ -1,52 +1,67 @@
-# Cybersecurity Portfolio – Cody Johnson
+# Google Cybersecurity Professional Certificate Portfolio - Cody Johnson
 
-This repository contains structured lab investigations and security simulations completed while pursuing the Google Cybersecurity Professional Certificate and developing a personal homelab.
+This repository contains projects completed as part of the Google Cybersecurity Professional Certificate.
 
-Each project demonstrates:
-
-- Log analysis methodology
-- Incident documentation
-- Linux system familiarity
-- SQL-based investigation
-- Security process thinking
-
-This portfolio is actively updated as new labs and investigations are completed.
+It is intentionally scoped to certificate work only.
+Independent projects, homelab experiments, and other ongoing cybersecurity work are maintained in separate repositories.
 
 ---
 
-## Portfolio Contents
+## Scope
 
-### Risk Assessments
-- [Botium Toys – Security Risk Assessment](risk-assessments/botium-toys/botium-toys-security-risk-assessment.md)
-- Supporting documents: controls & compliance checklist, full audit report, and PDFs in [risk-assessments/botium-toys](risk-assessments/botium-toys)
+This portfolio demonstrates:
 
-### Vulnerability Assessments
-- [Vulnerability Assessment – NIST SP 800-30](vulnerability-assessments/nist-800-30-vulnerability-assessment/nist-800-30-vulnerability-assessment.md)
-- Supporting documents and scenario image(s) in [vulnerability-assessments/nist-800-30-vulnerability-assessment](vulnerability-assessments/nist-800-30-vulnerability-assessment)
+- Log analysis methodology
+- Incident documentation and response thinking
+- Linux security fundamentals
+- SQL-based investigation skills
+- Risk and vulnerability assessment practices
+- Security frameworks and process alignment (NIST CSF, NIST SP 800-30)
 
-### Incident Response
-- [ICMP Flood DoS Incident – NIST CSF Analysis](incident-response/icmp-dos-incident/icmp-dos-incident-nist-csf-analysis.md)
-- Supporting documents and screenshots in [incident-response/icmp-dos-incident](incident-response/icmp-dos-incident)
+---
 
-- [Access Control Incident – Access Log Review & Mitigations](incident-response/access-control-incident/access-control-incident-analysis.md)
-- Supporting documents (scenario image, worksheet/PDF, access log table) in [incident-response/access-control-incident](incident-response/access-control-incident)
+## Certificate Project Index
 
-### Linux Investigations
-- [Linux File Permission Hardening](linux-investigations/linux-file-permissions-hardening.md)
-- Supporting PDFs in [linux-investigations](linux-investigations)
+| Project | Domain | Framework / Focus | Deliverable |
+|---|---|---|---|
+| [Botium Toys - Security Risk Assessment](risk-assessments/botium-toys/botium-toys-security-risk-assessment.md) | Risk Assessment | Controls, compliance, audit thinking | Written risk assessment |
+| [Vulnerability Assessment - NIST SP 800-30](vulnerability-assessments/nist-800-30-vulnerability-assessment/nist-800-30-vulnerability-assessment.md) | Vulnerability Management | NIST SP 800-30 | Structured assessment report |
+| [ICMP Flood DoS Incident - NIST CSF Analysis](incident-response/icmp-dos-incident/icmp-dos-incident-nist-csf-analysis.md) | Incident Response | NIST CSF | Incident analysis and response mapping |
+| [Access Control Incident - Access Log Review & Mitigations](incident-response/access-control-incident/access-control-incident-analysis.md) | Incident Response | Authentication and access controls | Log review and mitigation plan |
+| [Linux File Permission Hardening](linux-investigations/linux-file-permissions-hardening.md) | Linux Security | File permissions and least privilege | Hardening walkthrough |
+| [SQL Security Log Filtering](sql-investigations/security-log-query-analysis/sql-security-log-filtering.md) | Security Operations | SQL filtering and event investigation | Query-based investigation |
+| [Algorithm for File Updates in Python](python-cybersecurity/allow-list-file-update-algorithm.md) | Python Security Automation | File handling and allow-list logic | Algorithm design and implementation |
+| [Risk Register Activity](risk-management/risk-register-activity/risk-register-analysis.md) | Risk Management | Risk identification and prioritization | Risk register analysis |
+| [Data Leak Incident Analysis](data-privacy/data-leak-incident-analysis.md) | Data Privacy | Incident handling and privacy impact | Data leak analysis |
 
-### SQL Investigations
-- [SQL Security Log Filtering](sql-investigations/security-log-query-analysis/sql-security-log-filtering.md)
-- Supporting PDF in [sql-investigations/security-log-query-analysis](sql-investigations/security-log-query-analysis)
+---
 
-### Python Cybersecurity Projects
-- [Algorithm for File Updates in Python](python-cybersecurity/allow-list-file-update-algorithm.md)
-- Supporting documents in [python-cybersecurity](python-cybersecurity)
+## Supporting Materials
 
-### Risk Management
-- [Risk Register Activity](risk-management/risk-register-activity/risk-register-analysis.md)
-- Supporting PDF in [risk-management/risk-register-activity](risk-management/risk-register-activity)
+Supporting worksheets, scenario images, and PDFs are included in each project folder alongside the main write-up.
 
-### Data Privacy
-- [Data Leak Incident Analysis](data-privacy/data-leak-incident-analysis.md)
-- Supporting documents: worksheet and scenario image in [data-privacy](data-privacy)
+---
+
+## Certificate Status
+
+- Program: Google Cybersecurity Professional Certificate
+- Portfolio scope: Certificate-aligned coursework and labs
+- Status: Completed
+- Certificate evidence: See certificate files in [assets/certifications](assets/certifications)
+
+---
+
+## Certificate Evidence
+
+- PDF certificate: [assets/certifications/Google_CyberSecurity_Certificate_Coursera.pdf](assets/certifications/Google_CyberSecurity_Certificate_Coursera.pdf)
+
+---
+
+## Continued Learning
+
+My cybersecurity learning continues beyond this certificate through separate repositories focused on:
+
+- Homelab security engineering: [Linux Security Homelab](https://github.com/Cody-R-Johnson/linux-security-homelab)
+- Detection and monitoring projects
+- CTF-style investigations and write-ups, including: [7 Layers 7 Weeks Blue Team](https://github.com/Cody-R-Johnson/7-layers-7-weeks-blue-team)
+- Python automation and tooling
