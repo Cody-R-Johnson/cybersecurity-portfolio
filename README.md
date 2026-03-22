@@ -1,13 +1,21 @@
 # Google Cybersecurity Professional Certificate Portfolio - Cody Johnson
 
-This repository contains projects completed as part of the Google Cybersecurity Professional Certificate.
+This repository is a focused portfolio of hands-on projects completed through the Google Cybersecurity Professional Certificate.
 
 It is intentionally scoped to certificate work only.
 Independent projects, homelab experiments, and other ongoing cybersecurity work are maintained in separate repositories.
 
 ---
 
-## Scope
+## At a Glance
+
+- 9 completed certificate-aligned projects
+- Coverage across risk, vulnerability, incident response, Linux, SQL, Python, and data privacy
+- Framework-aligned analysis using NIST CSF and NIST SP 800-30
+
+---
+
+## Skills Demonstrated
 
 This portfolio demonstrates:
 
@@ -38,7 +46,7 @@ This portfolio demonstrates:
 
 ## Supporting Materials
 
-Supporting worksheets, scenario images, and PDFs are included in each project folder alongside the main write-up.
+Supporting worksheets, scenario images, and PDFs are stored in each project folder alongside the primary write-up.
 
 ---
 
@@ -59,9 +67,9 @@ Supporting worksheets, scenario images, and PDFs are included in each project fo
 
 ## Continued Learning
 
-My cybersecurity learning continues beyond this certificate through separate repositories focused on:
+My cybersecurity learning continues beyond this certificate in separate repositories:
 
 - Homelab security engineering: [Linux Security Homelab](https://github.com/Cody-R-Johnson/linux-security-homelab)
-- Detection and monitoring projects
+- Detection and monitoring projects (ongoing)
 - CTF-style investigations and write-ups, including: [7 Layers 7 Weeks Blue Team](https://github.com/Cody-R-Johnson/7-layers-7-weeks-blue-team)
 - Python automation and tooling
